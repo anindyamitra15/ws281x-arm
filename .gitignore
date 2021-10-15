@@ -37,10 +37,10 @@ rp2040/cpp-sdk/build
 **/.vscode
 
 # STM32 build cache
-ws281x-arm/stm32f103c8/Cube-arm-native/Debug/*.bin
-ws281x-arm/stm32f103c8/Cube-arm-native/Debug/*.hex
-ws281x-arm/stm32f103c8/Cube-arm-native/Debug/*.elf
-ws281x-arm/stm32f103c8/Cube-arm-native/Drivers/*
+stm32f103c8/Cube-arm-native/Debug/*.bin
+stm32f103c8/Cube-arm-native/Debug/*.hex
+stm32f103c8/Cube-arm-native/Debug/*.elf
+stm32f103c8/Cube-arm-native/Drivers/*
 # CrossWorks project files
 !*/*.hzp
 !*/*.hzs
